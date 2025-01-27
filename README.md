@@ -23,13 +23,12 @@ This is a simple console-based Tic-Tac-Toe game implemented in Dart. It allows t
 - **Dart SDK:** Install Dart from [dart.dev](https://dart.dev/get-dart).
 
 ### Steps to Run
-   ```bash
    1) git clone https://github.com/Mahmoud-Hijjeh/tic_tac_toe_dart.git
    2) cd tic_tac_toe_dart
    3) dart run
    4) enjoy the game.
 
-### Author
+## Author
 Eng. Mahmoud Hijjeh
 
 
