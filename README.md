@@ -29,4 +29,7 @@ This is a simple console-based Tic-Tac-Toe game implemented in Dart. It allows t
    3) dart run
    4) enjoy the game.
 
+### Author
+Eng. Mahmoud Hijjeh
+
 
